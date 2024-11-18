@@ -1,0 +1,28 @@
+{
+    "datos": {
+        "linea_1": "14:05 OBO NEE 24%8",
+        "linea_2": "brubank",
+        "linea_3": "Envio de dinero a",
+        "linea_4": "GOPER SA",
+        "linea_5": "S 500.000,00",
+        "linea_6": "@ Transferencia enviada",
+        "linea_7": "Detalle",
+        "linea_8": "faeces 931636888",
+        "linea_9": "Banco © acipacos",
+        "linea_10": "CBU 0000053600000018137808",
+        "linea_11": "CUIT / CUIL 30 - 71835328 - 5",
+        "linea_12": "Origen Caja de ahorro en Pesos",
+        "linea_13": "ID Operacién D4RO172V10QGXOL19KJ3QE",
+        "linea_14": "Exportar (t)",
+        "archivo": "brubanh hd.jpg"
+    },
+    "texto": "14:05 OBO NEE 24%8\n\nbrubank\n\nEnvio de dinero a\n\nGOPER SA\n\nS 500.000,00\n\n@ Transferencia enviada\n\nDetalle\nfaeces 931636888\nBanco © acipacos\nCBU 0000053600000018137808\nCUIT / CUIL 30 - 71835328 - 5\nOrigen Caja de ahorro en Pesos\nID Operacién D4RO172V10QGXOL19KJ3QE\n\nExportar (t)",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "500.000",
+        "Fecha": null,
+        "Hora": "14:05",
+        "Número de operación": null
+    }
+}

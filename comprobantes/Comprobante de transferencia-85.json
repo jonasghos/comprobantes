@@ -1,0 +1,34 @@
+{
+    "datos": {
+        "linea_1": "--- Página 1 ---",
+        "linea_2": "VA)",
+        "linea_3": "P Comprobante de transferencia",
+        "linea_4": "vala",
+        "linea_5": "Fecha y hora 21/10/2024 14:29 hs",
+        "linea_6": "Monto debitado $100.000,00",
+        "linea_7": "Cuenta destino Goper Sa",
+        "linea_8": "CBU destino 0000053600000018137808",
+        "linea_9": "CUIT destino 30718353285",
+        "linea_10": "Nombre remitente Matias alejando Yapo",
+        "linea_11": "Concepto VAR",
+        "linea_12": "Id Op. 86VRPQ2GD5WWPXRJ2GLYOM",
+        "linea_13": "Alau Tecnologia S.A.U. (Uala) es un Proveedor de Servicios",
+        "linea_14": "de Pago registrado ante el Banco Central de la Republica",
+        "linea_15": "Argentina, se limita a ofrecer servicios de pago y no se",
+        "linea_16": "encuentra autorizado a operar como entidad financiera. Los",
+        "linea_17": "fondos depositados en cuentas de pago no constituyen",
+        "linea_18": "depositos en una entidad financiera, ni estan garantizados",
+        "linea_19": "conforme legislacién y reglamentacion aplicable a",
+        "linea_20": "depositos en entidades financieras.",
+        "archivo": "Comprobante de transferencia-85.pdf"
+    },
+    "texto": "--- Página 1 ---\nVA)\n\nP Comprobante de transferencia\nvala\nFecha y hora 21/10/2024 14:29 hs\nMonto debitado $100.000,00\nCuenta destino Goper Sa\nCBU destino 0000053600000018137808\nCUIT destino 30718353285\nNombre remitente Matias alejando Yapo\nConcepto VAR\nId Op. 86VRPQ2GD5WWPXRJ2GLYOM\n\nAlau Tecnologia S.A.U. (Uala) es un Proveedor de Servicios\nde Pago registrado ante el Banco Central de la Republica\nArgentina, se limita a ofrecer servicios de pago y no se\nencuentra autorizado a operar como entidad financiera. Los\nfondos depositados en cuentas de pago no constituyen\ndepositos en una entidad financiera, ni estan garantizados\nconforme legislacién y reglamentacion aplicable a\ndepositos en entidades financieras.",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "100.000",
+        "Fecha": "21/10/2024",
+        "Hora": "14:29",
+        "Número de operación": null
+    }
+}

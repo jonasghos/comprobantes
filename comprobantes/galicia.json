@@ -1,0 +1,34 @@
+{
+    "datos": {
+        "linea_1": "{) Galicia",
+        "linea_2": "Transferencia enviada",
+        "linea_3": "$500.000",
+        "linea_4": "06/11/2024 - 14:25h",
+        "linea_5": "De:",
+        "linea_6": "WALTER ANIBAL BUSTOS",
+        "linea_7": "CUIT 23-33032914-9",
+        "linea_8": "CA § N° 4041281-3 057-9",
+        "linea_9": "Cuenta en Banco De Galicia S.A.U",
+        "linea_10": "Para:",
+        "linea_11": "Goper Sa",
+        "linea_12": "CUIT 30-71835328-5",
+        "linea_13": "CVU 0000053600000018137808",
+        "linea_14": "Cuenta en AGILPAGOS",
+        "linea_15": "Concepto",
+        "linea_16": "Varios",
+        "linea_17": "N° de operacion",
+        "linea_18": "35228399412",
+        "linea_19": "ID COELSA",
+        "linea_20": "JMQKYZ9IQ4ROLVWXV2V50P3",
+        "archivo": "galicia.jpg"
+    },
+    "texto": "{) Galicia\nTransferencia enviada\n\n$500.000\n\n06/11/2024 - 14:25h\n\nDe:\n\nWALTER ANIBAL BUSTOS\nCUIT 23-33032914-9\n\nCA § N° 4041281-3 057-9\n\nCuenta en Banco De Galicia S.A.U\n\nPara:\n\nGoper Sa\n\nCUIT 30-71835328-5\n\nCVU 0000053600000018137808\nCuenta en AGILPAGOS\n\nConcepto\nVarios\n\nN° de operacion\n35228399412\n\nID COELSA\nJMQKYZ9IQ4ROLVWXV2V50P3",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "500.000",
+        "Fecha": "06/11/2024",
+        "Hora": "14:25h",
+        "Número de operación": null
+    }
+}

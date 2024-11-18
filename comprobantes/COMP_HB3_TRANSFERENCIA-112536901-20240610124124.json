@@ -1,0 +1,40 @@
+{
+    "datos": {
+        "linea_1": "--- Página 1 ---",
+        "linea_2": "Comprobante de Transferencia",
+        "linea_3": "Importe transferido:",
+        "linea_4": "$ 105.000,00",
+        "linea_5": "Destino",
+        "linea_6": "GOPER SA",
+        "linea_7": "MISMO TITULAR: N",
+        "linea_8": "CUIL: 30-71835328-5",
+        "linea_9": "CC $ 000100004374",
+        "linea_10": "CBU/CVU: 0000053600000018137808",
+        "linea_11": "ALIAS: CALCULADORA.2024",
+        "linea_12": "BANCO COINAG S.A.",
+        "linea_13": "N° de operación",
+        "linea_14": "Referencia",
+        "linea_15": "RD06ZO9WELQYODM195GP7X",
+        "linea_16": "Buzos",
+        "linea_17": "Origen",
+        "linea_18": "Fecha y hora",
+        "linea_19": "MICAELA ORQUERA",
+        "linea_20": "CUIL:27-38799289-3",
+        "linea_21": "CA $ 01900068139000106",
+        "linea_22": "10/06/2024 12:41hs.",
+        "linea_23": "Canal",
+        "linea_24": "Motivo",
+        "linea_25": "Mobile home banking",
+        "linea_26": "VAR",
+        "archivo": "COMP_HB3_TRANSFERENCIA-112536901-20240610124124.pdf"
+    },
+    "texto": "--- Página 1 ---\nComprobante de Transferencia\nImporte transferido:\n$ 105.000,00\nDestino\nGOPER SA\nMISMO TITULAR: N\nCUIL: 30-71835328-5\nCC $ 000100004374\nCBU/CVU: 0000053600000018137808\nALIAS: CALCULADORA.2024\nBANCO COINAG S.A.\nN° de operación\nReferencia\nRD06ZO9WELQYODM195GP7X\nBuzos\nOrigen\nFecha y hora\nMICAELA ORQUERA\nCUIL:27-38799289-3\nCA $ 01900068139000106\n10/06/2024 12:41hs.\nCanal\nMotivo\nMobile home banking\nVAR",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "105.000",
+        "Fecha": "10/06/2024",
+        "Hora": "12:41hs",
+        "Número de operación": null
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "datos": {
+        "linea_1": "--- Página 1 ---",
+        "linea_2": "21/10/2024",
+        "linea_3": "12:57:00",
+        "linea_4": "Transferiste a",
+        "linea_5": "GOPER SA",
+        "linea_6": "$ 500.000,00",
+        "linea_7": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "linea_8": "Número de referencia 50155987009241021",
+        "linea_9": "Cuenta de origen",
+        "linea_10": "CA$ 143-032181/9",
+        "linea_11": "Titular",
+        "linea_12": "MIRANDA BOLANOS",
+        "linea_13": "MARIBEL",
+        "linea_14": "Destinatario",
+        "linea_15": "GOPER SA",
+        "linea_16": "CBU/CVU del destinatario 0000053600000018137808",
+        "linea_17": "CUIT destinatario",
+        "linea_18": "Motivo y concepto",
+        "linea_19": "VARIOS",
+        "linea_20": "Esta operación se realizó en BBVA Móvil",
+        "archivo": "file-9.pdf"
+    },
+    "texto": "--- Página 1 ---\n21/10/2024\n12:57:00\nTransferiste a\nGOPER SA\n$ 500.000,00\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nNúmero de referencia 50155987009241021\nCuenta de origen\nCA$ 143-032181/9\nTitular\nMIRANDA BOLANOS\nMARIBEL\nDestinatario\nGOPER SA\nCBU/CVU del destinatario 0000053600000018137808\nCUIT destinatario\nMotivo y concepto\nVARIOS\nEsta operación se realizó en BBVA Móvil",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "500.000",
+        "Fecha": "21/10/2024",
+        "Hora": "12:57",
+        "Número de operación": null
+    }
+}

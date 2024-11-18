@@ -1,0 +1,24 @@
+{
+    "datos": {
+        "linea_1": "GOPER SA",
+        "linea_2": "S 80.000.00",
+        "linea_3": "©",
+        "linea_4": "ansferencia enviada",
+        "linea_5": "394842068",
+        "linea_6": "FB AGILPAGOS",
+        "linea_7": "1000053600000018137808",
+        "linea_8": "30 - 71835328 - 5",
+        "linea_9": "Caja de ahora en Pesas,",
+        "linea_10": "2411070000674738412420",
+        "archivo": "brubank.jpg"
+    },
+    "texto": "GOPER SA\n\nS 80.000.00\n\n©\n\nansferencia enviada\n\n394842068\n\nFB AGILPAGOS\n\n1000053600000018137808\n\n30 - 71835328 - 5\n\nCaja de ahora en Pesas,\n\n2411070000674738412420",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "80.000",
+        "Fecha": null,
+        "Hora": null,
+        "Número de operación": null
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "datos": {
+        "linea_1": "ARS 300.000,00",
+        "linea_2": "Tl Noviembre 2024 13:18 hs",
+        "linea_3": "Enviado por Adriana Paola Ejt",
+        "linea_4": "Persona destinataria",
+        "linea_5": "Nombre Goper Sa",
+        "linea_6": "CUIT 30718353285",
+        "linea_7": "CBU 0000053600000018137808",
+        "linea_8": "Banco destino Agil Pagos",
+        "linea_9": "Motivo Varios",
+        "linea_10": "COELSA ID",
+        "linea_11": "WGRXJE27QMJOOM8J97MYQL",
+        "linea_12": "ID de la transaccion",
+        "linea_13": "elc98e3c-9428-4626-8000-fe502457a3e9",
+        "linea_14": "@LEMON",
+        "linea_15": "Powered by Digifin",
+        "linea_16": "Comprobante de transferencia",
+        "archivo": "lemon.jpg"
+    },
+    "texto": "ARS 300.000,00\nTl Noviembre 2024 13:18 hs\n\nEnviado por Adriana Paola Ejt\n\nPersona destinataria\n\nNombre Goper Sa\nCUIT 30718353285\nCBU 0000053600000018137808\nBanco destino Agil Pagos\nMotivo Varios\nCOELSA ID\n\nWGRXJE27QMJOOM8J97MYQL\n\nID de la transaccion\nelc98e3c-9428-4626-8000-fe502457a3e9\n\n@LEMON\n\nPowered by Digifin\n\nComprobante de transferencia",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "300.000",
+        "Fecha": null,
+        "Hora": "13:18",
+        "Número de operación": null
+    }
+}

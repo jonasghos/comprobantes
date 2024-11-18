@@ -1,0 +1,39 @@
+{
+    "datos": {
+        "linea_1": "--- Página 1 ---",
+        "linea_2": "Enviaste dinero",
+        "linea_3": "$200.000",
+        "linea_4": "00",
+        "linea_5": "Fecha",
+        "linea_6": "05/07/2024",
+        "linea_7": "Hora",
+        "linea_8": "14:46 hs.",
+        "linea_9": "Envía",
+        "linea_10": "Cabrera Flores, Belen Alexandra",
+        "linea_11": "CUIL/CUIT",
+        "linea_12": "27-95300682-6",
+        "linea_13": "Desde",
+        "linea_14": "Personal Pay",
+        "linea_15": "Recibe",
+        "linea_16": "Goper Sa",
+        "linea_17": "CUIL/CUIT",
+        "linea_18": "30-71835328-5",
+        "linea_19": "CBU/CVU",
+        "linea_20": "0000053600000018137808",
+        "linea_21": "Nº de la operación",
+        "linea_22": "4894066F03D02EC2BEAE42180023E3A5D22",
+        "linea_23": "5",
+        "linea_24": "CoelsaID",
+        "linea_25": "JMQKYZ9Q45K0X0K82V50P3",
+        "archivo": "4A2CA95E-2AF0-48B9-8506-5210ED38E02A-37462-000016B2BD02B5E0.pdf"
+    },
+    "texto": "--- Página 1 ---\nEnviaste dinero\n$200.000\n00\nFecha\n05/07/2024\nHora\n14:46 hs.\nEnvía\nCabrera Flores, Belen Alexandra\nCUIL/CUIT\n27-95300682-6\nDesde\nPersonal Pay\nRecibe\nGoper Sa\nCUIL/CUIT\n30-71835328-5\nCBU/CVU\n0000053600000018137808\nNº de la operación\n4894066F03D02EC2BEAE42180023E3A5D22\n5\nCoelsaID\nJMQKYZ9Q45K0X0K82V50P3",
+    "objeto": {
+        "Origen": null,
+        "Destino": null,
+        "Monto": "200.000",
+        "Fecha": "05/07/2024",
+        "Hora": "14:46",
+        "Número de operación": null
+    }
+}
